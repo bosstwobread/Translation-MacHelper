@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "runtime": "javascript",
+  "identifier": "com.localaibasetools.translation",
+  "displayName": "Translation",
+  "version": "4.5.9",
+  "summary": "Translate selected text with editable local scripts and prompts.",
+  "entryPoint": "main.js",
+  "icon": "assets/icon.png",
+  "permissions": [
+    "selection.read",
+    "ai.transform",
+    "ui.panel"
+  ],
+  "commands": [
+    {
+      "identifier": "translate",
+      "title": "Translate",
+      "trigger": "selection"
+    }
+  ],
+  "settingsSchema": "settings.schema.json",
+  "localizations": "localizations.json"
+}

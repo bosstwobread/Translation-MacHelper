@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "fields": [
+    {
+      "key": "targetLanguage", "label": "Translate to", "type": "select", "default": "zh-CN",
+      "options": [
+        {"value":"zh-CN","label":"简体中文"}, {"value":"zh-TW","label":"繁體中文"},
+        {"value":"en","label":"English"}, {"value":"ja","label":"日本語"},
+        {"value":"ko","label":"한국어"}, {"value":"fr","label":"Français"},
+        {"value":"de","label":"Deutsch"}, {"value":"es","label":"Español"},
+        {"value":"pt","label":"Português"}, {"value":"it","label":"Italiano"}
+      ]
+    },
+    {
+      "key": "translationPrompt", "label": "Translation prompt", "type": "prompt", "path": "prompts/translate.txt"
+    },
+    {
+      "key": "wordPrompt", "label": "Word lookup prompt", "type": "prompt", "path": "prompts/word-in-context.txt"
+    }
+  ]
+}

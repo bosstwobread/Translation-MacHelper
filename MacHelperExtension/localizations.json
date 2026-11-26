@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "translations": {
+    "en": {
+      "Translate selected text with editable local scripts and prompts.": "Translate selected text with editable local scripts and prompts.",
+      "Translate to": "Translate to",
+      "Translation prompt": "Translation prompt",
+      "Word lookup prompt": "Word lookup prompt",
+      "Translate": "Translate"
+    },
+    "zh-Hans": {
+      "Translate selected text with editable local scripts and prompts.": "使用可编辑的本地脚本和提示词翻译所选文本。",
+      "Translate to": "翻译为",
+      "Translation prompt": "翻译提示词",
+      "Word lookup prompt": "单词释义提示词",
+      "Translate": "翻译"
+    },
+    "zh-Hant": {
+      "Translate selected text with editable local scripts and prompts.": "使用可編輯的本機腳本和提示詞翻譯所選文字。",
+      "Translate to": "翻譯為",
+      "Translation prompt": "翻譯提示詞",
+      "Word lookup prompt": "單字釋義提示詞",
+      "Translate": "翻譯"
+    },
+    "es": {
+      "Translate selected text with editable local scripts and prompts.": "Traduce el texto seleccionado con scripts y prompts locales editables.",
+      "Translate to": "Traducir a",
+      "Translation prompt": "Instrucciones de traducción",
+      "Word lookup prompt": "Instrucciones de consulta de palabras",
+      "Translate": "Traducir"
+    },
+    "fr": {
+      "Translate selected text with editable local scripts and prompts.": "Traduisez le texte sélectionné avec des scripts et des consignes locales modifiables.",
+      "Translate to": "Traduire en",
+      "Translation prompt": "Consigne de traduction",
+      "Word lookup prompt": "Consigne de recherche de mots",
+      "Translate": "Traduire"
+    },
+    "de": {
+      "Translate selected text with editable local scripts and prompts.": "Ausgewählten Text mit bearbeitbaren lokalen Skripten und Prompts übersetzen.",
+      "Translate to": "Übersetzen in",
+      "Translation prompt": "Übersetzungsanweisung",
+      "Word lookup prompt": "Anweisung für Wortbedeutungen",
+      "Translate": "Übersetzen"
+    },
+    "ja": {
+      "Translate selected text with editable local scripts and prompts.": "編集可能なローカルスクリプトとプロンプトで選択したテキストを翻訳します。",
+      "Translate to": "翻訳先",
+      "Translation prompt": "翻訳プロンプト",
+      "Word lookup prompt": "単語の意味を調べるプロンプト",
+      "Translate": "翻訳"
+    },
+    "ko": {
+      "Translate selected text with editable local scripts and prompts.": "편집 가능한 로컬 스크립트와 프롬프트로 선택한 텍스트를 번역합니다.",
+      "Translate to": "번역 언어",
+      "Translation prompt": "번역 프롬프트",
+      "Word lookup prompt": "단어 뜻 프롬프트",
+      "Translate": "번역"
+    },
+    "pt": {
+      "Translate selected text with editable local scripts and prompts.": "Traduza o texto selecionado com scripts e instruções locais editáveis.",
+      "Translate to": "Traduzir para",
+      "Translation prompt": "Instrução de tradução",
+      "Word lookup prompt": "Instrução de consulta de palavras",
+      "Translate": "Traduzir"
+    },
+    "ar": {
+      "Translate selected text with editable local scripts and prompts.": "ترجم النص المحدد باستخدام نصوص برمجية وتعليمات محلية قابلة للتعديل.",
+      "Translate to": "الترجمة إلى",
+      "Translation prompt": "تعليمات الترجمة",
+      "Word lookup prompt": "تعليمات البحث عن معنى الكلمة",
+      "Translate": "ترجمة"
+    },
+    "hi": {
+      "Translate selected text with editable local scripts and prompts.": "संपादन योग्य स्थानीय स्क्रिप्ट और प्रॉम्प्ट से चुने हुए पाठ का अनुवाद करें।",
+      "Translate to": "इस भाषा में अनुवाद करें",
+      "Translation prompt": "अनुवाद का प्रॉम्प्ट",
+      "Word lookup prompt": "शब्द के अर्थ का प्रॉम्प्ट",
+      "Translate": "अनुवाद करें"
+    },
+    "ru": {
+      "Translate selected text with editable local scripts and prompts.": "Переводите выделенный текст с помощью редактируемых локальных скриптов и инструкций.",
+      "Translate to": "Язык перевода",
+      "Translation prompt": "Инструкция для перевода",
+      "Word lookup prompt": "Инструкция для значения слова",
+      "Translate": "Перевести"
+    },
+    "it": {
+      "Translate selected text with editable local scripts and prompts.": "Traduci il testo selezionato con script e istruzioni locali modificabili.",
+      "Translate to": "Traduci in",
+      "Translation prompt": "Istruzione di traduzione",
+      "Word lookup prompt": "Istruzione per il significato delle parole",
+      "Translate": "Traduci"
+    }
+  }
+}

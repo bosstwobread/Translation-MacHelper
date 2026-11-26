@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="720" viewBox="0 0 1160 720" role="img" aria-labelledby="title desc" lang="ar" xml:lang="ar">
+  <title id="title" data-preview-key="translation.title">معاينة واجهة Translation</title>
+  <desc id="desc" data-preview-key="translation.description">رسم توضيحي لمستند يحتوي على نص إنجليزي محدد ولوحة قريبة تعرض ترجمته العربية. المحتوى مثال توضيحي.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e8edf1" /><stop offset="1" stop-color="#e0e8dd" /></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="170%" height="180%"><feDropShadow dx="0" dy="15" stdDeviation="20" flood-color="#3c5363" flood-opacity=".14" /></filter>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#9eadab" opacity=".24" /></pattern>
+  </defs>
+  <rect width="1160" height="720" fill="url(#bg)" />
+  <rect width="1160" height="720" fill="url(#dots)" />
+  <circle cx="1000" cy="65" r="260" fill="#f2f5ec" opacity=".45" />
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+    <text x="1094.0" y="49" font-size="12" letter-spacing="3" fill="#81918a" data-preview-key="translation.eyebrow" data-preview-width="1030" direction="rtl" text-anchor="start" unicode-bidi="plaintext"><tspan x="1094.0" dy="0">وضوح أكبر، في مكانك</tspan></text>
+    <g filter="url(#shadow)">
+      <rect x="66" y="91" width="710" height="475" rx="18" fill="#fffefa" stroke="#fff" />
+      <path d="M66 140h710" stroke="#e7eae3" />
+      <circle cx="91" cy="116" r="5" fill="#d2d9d0" /><circle cx="109" cy="116" r="5" fill="#d2d9d0" /><circle cx="127" cy="116" r="5" fill="#d2d9d0" />
+      <text x="716.0" y="121" font-size="12" fill="#8c978b" data-preview-key="hero.noteTitle" data-preview-width="390" direction="rtl" text-anchor="start" unicode-bidi="plaintext"><tspan x="716.0" dy="0">ملاحظة ليوم الجمعة</tspan></text>
+    </g>
+    <text x="728.0" y="197" font-family="Georgia,serif" font-size="29" fill="#3f5145" data-preview-key="translation.documentHeading" data-preview-width="620" direction="rtl" text-anchor="start" unicode-bidi="plaintext"><tspan x="728.0" dy="0">قبل أن نبدأ.</tspan></text>
+    <text x="728.0" y="239" font-size="17" fill="#879185" data-preview-key="translation.documentIntro" data-preview-width="620" direction="rtl" text-anchor="start" unicode-bidi="plaintext"><tspan x="728.0" dy="0">شكرًا على التحديث. لدي سؤال سريع:</tspan></text>
+    <rect x="106" y="261" width="566" height="41" rx="3" fill="#cbdcff" />
+    <text x="111.0" y="290" font-family="Georgia,serif" font-size="24" fill="#294774" data-preview-key="translation.source" data-preview-width="552" data-preview-preserve="source" direction="ltr" text-anchor="start" unicode-bidi="plaintext"><tspan x="111.0" dy="0">Could we move our call to Friday?</tspan></text>
+    <path d="M673 261v42" stroke="#245bd4" stroke-width="2" />
+    <rect x="105" y="335" width="423" height="6" rx="3" fill="#e6eae1" /><rect x="105" y="356" width="519" height="6" rx="3" fill="#e6eae1" /><rect x="105" y="377" width="360" height="6" rx="3" fill="#e6eae1" />
+    <g filter="url(#shadow)">
+      <rect x="670" y="215" width="43" height="41" rx="11" fill="#fff" stroke="#d3deef" />
+      <text x="679" y="243" font-size="24" fill="#245bd4" data-preview-preserve="symbol">文</text>
+    </g>
+    <g filter="url(#shadow)">
+      <rect x="539" y="359" width="541" height="247" rx="19" fill="#fffefa" stroke="#fff" />
+      <text x="566" y="400" font-size="19" font-weight="600" fill="#36473b" data-preview-preserve="brand">Translation</text>
+      <text x="1042" y="400" font-size="24" fill="#9ba69a" data-preview-preserve="symbol">×</text>
+      <text x="1007.0" y="423" font-size="12" fill="#809078" data-preview-key="hero.targetLanguage" data-preview-width="440" direction="rtl" text-anchor="start" unicode-bidi="plaintext"><tspan x="1007.0" dy="0">العربية</tspan></text>
+      <text x="1027.0" y="464" font-size="23" fill="#465a47" data-preview-key="translation.result" data-preview-width="460" data-preview-lines="2" data-preview-line-height="34" direction="rtl" text-anchor="start" unicode-bidi="plaintext"><tspan x="1027.0" dy="0">هل يمكننا نقل مكالمتنا</tspan><tspan x="1027.0" dy="34.0">إلى يوم الجمعة؟</tspan></text>
+      <text x="932.0" y="558" font-size="11" fill="#909d8b" data-preview-key="hero.sharedSettings" data-preview-width="365" direction="rtl" text-anchor="start" unicode-bidi="plaintext"><tspan x="932.0" dy="0">MacHelper · إعدادات الذكاء الاصطناعي المشتركة</tspan></text>
+      <rect x="953" y="535" width="94" height="34" rx="7" fill="#f4f6ef" stroke="#d9dfd3" />
+      <text x="1035.0" y="557" font-size="13" fill="#617354" data-preview-key="hero.copy" data-preview-width="70" direction="rtl" text-anchor="start" unicode-bidi="plaintext"><tspan x="1035.0" dy="0">نسخ</tspan></text>
+    </g>
+    <path d="M701 177c93-29 160-4 169 57" fill="none" stroke="#a4b79b" stroke-width="2" stroke-dasharray="5 6" />
+    <path d="m860 224 11 13 8-16" fill="none" stroke="#a4b79b" stroke-width="2" stroke-linecap="round" />
+    <text x="714.0" y="659" font-size="12" letter-spacing="2.8" fill="#6f8675" data-preview-key="translation.instruction" data-preview-width="650" direction="rtl" text-anchor="start" unicode-bidi="plaintext"><tspan x="714.0" dy="0">حدّد. انقر. افهم.</tspan></text>
+    <text x="1100.0" y="659" font-size="11" fill="#8b9b8a" data-preview-key="translation.previewLabel" data-preview-width="340" direction="rtl" text-anchor="start" unicode-bidi="plaintext"><tspan x="1100.0" dy="0">معاينة الواجهة · محتوى توضيحي</tspan></text>
+  </g>
+</svg>
